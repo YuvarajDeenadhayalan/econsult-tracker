@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.8">
+  <diagram name="Page-1" id="th9wDepg5Jub0nQqfklY">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LsX0RgtLulViGSuH7OF8-1" value="Patient App&lt;br&gt;(React + TS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-2" value=".NET Web API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="150" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-4" value="File Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-5" value="Admin Dashboard&lt;br&gt;(React + TS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LsX0RgtLulViGSuH7OF8-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="184.5" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="179.5" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="179.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-8" value="SQL Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="470" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="258.25" as="sourcePoint" />
+            <mxPoint x="271" y="258" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="258.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsX0RgtLulViGSuH7OF8-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="270.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
